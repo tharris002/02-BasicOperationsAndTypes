@@ -23,7 +23,7 @@ import math
 #      -- Try to GUESS its TYPE.
 #      -- Write code of the form   print(type(BLAH)).
 #      -- RUN the code to LEARN its TYPE.
-
+#
 #       "hello"
 #       'hello'
 #       "a b c"
