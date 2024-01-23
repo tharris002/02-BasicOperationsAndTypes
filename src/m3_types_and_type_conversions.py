@@ -76,7 +76,7 @@ import math
 #     - The result of casting that float into an int
 #     - The type of the result
 #
-#   Notice how this is different from the round function.
+#   Notice how this also rounds the number.
 #   
 #   Once you have done this, change the above _TODO_ to DONE.
 ###############################################################################
